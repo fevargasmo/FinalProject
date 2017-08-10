@@ -1,2 +1,6 @@
 # FinalProject
-Final project IS220172
+**TEAM**
+
+- Omar Roa
+
+
